@@ -53,11 +53,12 @@ Componets:
   
 **Utility Functions**
 
-
+   -------
 **Plotting & Analytics**
 > This is intended to provide the user with insightful information for songs and playlists
 
 
+   -------
 **ML Models**
 
 
