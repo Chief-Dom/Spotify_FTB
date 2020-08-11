@@ -15,6 +15,11 @@ Overview:
 
 
 -----------------------------------
+Insall Instructions:
+-----------------------------------
+
+
+-----------------------------------
 Componets:
 -----------------------------------
 **Website**
@@ -32,8 +37,8 @@ Componets:
 
    Stack
   :-----:
-| - Java |
-| - ?    |
+| - Java    |
+| - Swift?  |
   -------
   
 **Our Database**  
@@ -52,6 +57,10 @@ Componets:
   -------
   
 **Utility Functions**
+- get_track_analysis(id)
+- get_track_features(id_list)
+
+
 
    -------
 **Plotting & Analytics**
@@ -60,5 +69,8 @@ Componets:
 
    -------
 **ML Models**
+
+- Clustering Analysis (unsupervised)
+- Song Classification, parse a playlist to find songs 
 
 
