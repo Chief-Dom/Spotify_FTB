@@ -65,7 +65,7 @@ Componets:
 |              :------:                               |
 |  - artist_correlation_matrix(artist_id)             |
 |  - generate_new_songs(artist_correlation_matrix)    | 
-              --------
+|             --------                                |
               
               
 **Plotting & Analytics**
