@@ -54,11 +54,12 @@ Componets:
   -------
   
 **Utility Functions**
+
                Built
-              :------:
+         :------------------:
 |  - get_track_analysis(id)        |
 |  - get_track_features(id_list)   | 
-              --------
+         --------------------
                
                Future
               :------:
