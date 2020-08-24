@@ -2,12 +2,9 @@
 Spotify For The Birds
 ----------------------------------------------------------------------
 
-| Authors           |
+| Author           |
 | :---              |  
 | Dominik Huffield  | 
-| Andres Guzeman    |
-| Caleb Cram        |
-| Max Poole         |
 
 -----------------------------------
 Overview:
@@ -37,8 +34,8 @@ Componets:
 
    Stack
   :-----:
-| - Java    |
-| - Swift?  |
+| - Java   |
+| - Swift  |
   -------
   
 **Our Database**  
@@ -57,12 +54,19 @@ Componets:
   -------
   
 **Utility Functions**
-- get_track_analysis(id)
-- get_track_features(id_list)
-
-
-
-   -------
+               Built
+              :------:
+|  - get_track_analysis(id)        |
+|  - get_track_features(id_list)   | 
+              --------
+               
+               Future
+              :------:
+|  - artist_correlation_matrix(artist_id)             |
+|  - generate_new_songs(artist_correlation_matrix)    | 
+              --------
+              
+              
 **Plotting & Analytics**
 > This is intended to provide the user with insightful information for songs and playlists
 
