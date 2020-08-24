@@ -55,14 +55,14 @@ Componets:
   
 **Utility Functions**
 
-               Built
-         :------------------:
+|              Built               |
+|        :------------------:      |
 |  - get_track_analysis(id)        |
 |  - get_track_features(id_list)   | 
-         --------------------
+|        --------------------      |
                
-               Future
-              :------:
+|               Future                                |
+|              :------:                               |
 |  - artist_correlation_matrix(artist_id)             |
 |  - generate_new_songs(artist_correlation_matrix)    | 
               --------
