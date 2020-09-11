@@ -2,8 +2,6 @@
 Spotify For The Birds
 ----------------------------------------------------------------------
 
-**Author:   Dominik Huffield** 
-
 -----------------------------------
 Overview:
 -----------------------------------
@@ -12,7 +10,9 @@ Overview:
 -----------------------------------
 Insall Instructions:
 -----------------------------------
-
+- Make a new conda enviorment with python 3
+- Clone the repository
+- Run the command '''python __init__.py'''
 
 -----------------------------------
 Componets:
