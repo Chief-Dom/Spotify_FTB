@@ -10,7 +10,7 @@ Overview:
 -----------------------------------
 Install Instructions:
 -----------------------------------
-- Clone the repository
+- Clone the repository using ```git clone```
 - Make a new conda enviorment with python 3
 - Activate the enviorment
 - ```cd``` to the top or the cloned directory
