@@ -1,11 +1,11 @@
 ----------------------------------------------------------------------
-Spotify For The Birds
+Acoustics - For The Birds
 ----------------------------------------------------------------------
 
 -----------------------------------
 Overview:
 -----------------------------------
-
+An application accessible to every platform, this project benefits any music profesional or enthusiast by allowing them to better connect with the music in their library.   
 
 -----------------------------------
 Install Instructions:
@@ -20,7 +20,7 @@ Install Instructions:
    - For Windows or if your enviorment has python 2 run the command: ```python3 __init__.py```
 
 - Navigation & Utilization of App:
-   * To view the notebooks run ```jupyter notebook```, make sure your enviorment is active
+   - To view the notebooks run ```jupyter notebook```, make sure your enviorment is active
 
 -----------------------------------
 Componets:
