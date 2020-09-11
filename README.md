@@ -35,8 +35,8 @@ Componets:
   -------
 
 **Mobile App**
->> Made with Java, hosted using Docker
->> Will eventually make a swift varient
+> Android app made with Java and android studio, hosted using Docker
+> Will eventually make a swift varient
 
    Stack
   :-----:
