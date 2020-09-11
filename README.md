@@ -16,8 +16,8 @@ Install Instructions:
 - ```cd``` to the top or the cloned directory
 
 - Initialization:
->>>   - For Mac & Linux run the command: ```python __init__.py```
->>>   - For Windows or if your enviorment has python 2 run the command: ```python3 __init__.py```
+   - For Mac & Linux run the command: ```python __init__.py```
+   - For Windows or if your enviorment has python 2 run the command: ```python3 __init__.py```
 
 - Navigation & Utilization of App:
    * To view the notebooks run ```jupyter notebook```, make sure your enviorment is active
