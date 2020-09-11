@@ -2,7 +2,7 @@
 Spotify For The Birds
 ----------------------------------------------------------------------
 
-| Author:   Dominik Huffield  | 
+**Author:   Dominik Huffield** 
 
 -----------------------------------
 Overview:
