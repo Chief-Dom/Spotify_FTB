@@ -26,7 +26,7 @@ Install Instructions:
 Componets:
 -----------------------------------
 **Website**
-> Made with Django, hosted on Google Cloud Platform
+> Made with Django, hosted using Docker
 
    Stack
   :-----:
@@ -34,8 +34,8 @@ Componets:
 | - Django |
   -------
 
-**App**
->> Made with Java, hosted on Google Cloud Platform
+**Mobile App**
+>> Made with Java, hosted using Docker
 >> Will eventually make a swift varient
 
    Stack
