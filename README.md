@@ -71,7 +71,10 @@ Componets:
 |               Future                                |
 |              :------:                               |
 |  - artist_correlation_matrix(artist_id)             |
-|  - generate_new_songs(artist_correlation_matrix)    | 
+|  - generate_new_songs(artist_correlation_matrix)    |
+|  - compare_playlists(playlist_id_list)              |
+|  - get_playlist_tracks(playlist_id)                 |
+|  - get_track_artists(track_list)                    |
               
               
 **Plotting & Analytics**
