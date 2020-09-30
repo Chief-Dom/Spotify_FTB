@@ -68,6 +68,7 @@ Componets:
 |  - get_track_features(id_list)       |
 |  - get_playlist_tracks(playlist_id)  |
 |  - get_track_artists(track_list)     |
+|  - get_user_top_tracks(user_id)      |
 
 |              Analysis                               |
 |              :------:                               |
