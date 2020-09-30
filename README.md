@@ -60,21 +60,30 @@ Componets:
 | - MongoDB |
   -------
   
-**Utility Functions**
+**Functions**
 
-|              Built               |
-|        :------------------:      |
-|  - get_track_analysis(id)        |
-|  - get_track_features(id_list)   | 
+|              Utility                 |
+|        :------------------:          |
+|  - get_track_analysis(id)            |
+|  - get_track_features(id_list)       |
+|  - get_playlist_tracks(playlist_id)  |
+|  - get_track_artists(track_list)     |
 
-               
-|               Future                                |
+|              Analysis                               |
 |              :------:                               |
+|  - graph_playlists_features(playlist_id_list)       |
 |  - artist_correlation_matrix(artist_id)             |
+
+|              Modeling                    |
+|              :------:                    |
+|  - cluster_track_analysis(track_list)    |
+|  - model_track_features(track_list)      |
+
+|             Predictions                             |
+|              :------:                               |
 |  - generate_new_songs(artist_correlation_matrix)    |
-|  - compare_playlists(playlist_id_list)              |
-|  - get_playlist_tracks(playlist_id)                 |
-|  - get_track_artists(track_list)                    |
+|  - cluster_playlist_parse(user_cluster)             |
+
               
               
 **Plotting & Analytics**
