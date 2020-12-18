@@ -30,8 +30,9 @@ Componets:
 
    Stack
   :-----:
-| - Python |
-| - Django |
+| - Python    |
+| - Flask     |
+| - Tornado?  |
   -------
 
 **Mobile App**
